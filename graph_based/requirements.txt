@@ -1,0 +1,7 @@
+torch==2.5.1+cu121
+# Install a CUDA toolkit compatible with your system separately if required.
+dgl==2.4.0+cu121
+numpy==1.26.3
+scikit-learn==1.7.2
+tqdm==4.67.3
+wandb==0.23.0

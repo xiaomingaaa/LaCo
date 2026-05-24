@@ -1,0 +1,9 @@
+# Ignore model checkpoints and large runtime outputs
+ckpts/model
+logs/
+wandb/
+__pycache__/
+*.pyc
+*.pt
+*.pth
+*.npy
